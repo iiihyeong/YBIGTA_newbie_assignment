@@ -1,0 +1,15 @@
+{
+  "url": "http://this-domain-should-not-exist.example",
+  "host": "this-domain-should-not-exist.example",
+  "port": 80,
+  "path": "/",
+  "dns_ips": [],
+  "chosen_ip": null,
+  "tcp_ms": null,
+  "local_addr": null,
+  "peer_addr": null,
+  "http_status": null,
+  "body_preview": "",
+  "stage": "dns",
+  "error": "[Errno 11001] getaddrinfo failed"
+}
