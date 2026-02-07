@@ -1,0 +1,25 @@
+# Environment
+.env
+.venv/
+
+# Data (downloaded/generated, not tracked)
+!data/raw/corpus.jsonl
+!data/raw/qa.jsonl
+!data/processed/embeddings.npy
+!data/processed/embedding_ids.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.npy
+
+# macOS
+.DS_Store
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
